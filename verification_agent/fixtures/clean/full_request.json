@@ -1,0 +1,30 @@
+{
+  "contract": {
+    "milestone": "Foundation Casting",
+    "quantity": 150.0,
+    "unit": "cubic_meters",
+    "deadline": "2026-10-01T00:00:00Z",
+    "specification": "M25 Grade Concrete",
+    "source_reference": "CONTRACT-A123-V2"
+  },
+  "evidence": {
+    "claim_record": {
+      "contractor_id": "C-987",
+      "invoice_number": "INV-2026-001",
+      "notes": "Foundation casting completed successfully."
+    },
+    "gps": "28.6139, 77.2090",
+    "timestamp": "2026-08-26T14:30:00Z",
+    "coordinates_in_boundary": true,
+    "cv_relevance_score": 0.95,
+    "detected_stage": "Foundation Casting"
+  },
+  "forensics": {
+    "is_duplicate": false,
+    "similarity_score": 0.12,
+    "manipulation_flag": false,
+    "ai_generated_flag": false,
+    "metadata_consistency_flag": true,
+    "forensics_confidence_score": 0.98
+  }
+}

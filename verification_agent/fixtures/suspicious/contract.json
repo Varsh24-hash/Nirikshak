@@ -1,0 +1,8 @@
+{
+  "milestone": "Roof Slab Casting",
+  "quantity": 200.0,
+  "unit": "cubic_meters",
+  "deadline": "2026-12-01T00:00:00Z",
+  "specification": "M30 Grade Concrete",
+  "source_reference": "CONTRACT-A123-V2"
+}

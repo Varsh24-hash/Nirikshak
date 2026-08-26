@@ -1,0 +1,30 @@
+{
+  "contract": {
+    "milestone": "Roof Slab Casting",
+    "quantity": 200.0,
+    "unit": "cubic_meters",
+    "deadline": "2026-12-01T00:00:00Z",
+    "specification": "M30 Grade Concrete",
+    "source_reference": "CONTRACT-A123-V2"
+  },
+  "evidence": {
+    "claim_record": {
+      "contractor_id": "C-987",
+      "invoice_number": "INV-2026-042",
+      "notes": "Roof slab completed, requesting payment."
+    },
+    "gps": "18.9220, 72.8347",
+    "timestamp": "2026-08-25T09:15:00Z",
+    "coordinates_in_boundary": false,
+    "cv_relevance_score": 0.42,
+    "detected_stage": "Foundation Casting"
+  },
+  "forensics": {
+    "is_duplicate": true,
+    "similarity_score": 0.99,
+    "manipulation_flag": true,
+    "ai_generated_flag": false,
+    "metadata_consistency_flag": false,
+    "forensics_confidence_score": 0.85
+  }
+}

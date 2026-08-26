@@ -1,0 +1,8 @@
+{
+  "is_duplicate": true,
+  "similarity_score": 0.99,
+  "manipulation_flag": true,
+  "ai_generated_flag": false,
+  "metadata_consistency_flag": false,
+  "forensics_confidence_score": 0.85
+}

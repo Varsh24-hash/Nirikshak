@@ -1,0 +1,12 @@
+{
+  "claim_record": {
+    "contractor_id": "C-987",
+    "invoice_number": "INV-2026-042",
+    "notes": "Roof slab completed, requesting payment."
+  },
+  "gps": "18.9220, 72.8347",
+  "timestamp": "2026-08-25T09:15:00Z",
+  "coordinates_in_boundary": false,
+  "cv_relevance_score": 0.42,
+  "detected_stage": "Foundation Casting"
+}
